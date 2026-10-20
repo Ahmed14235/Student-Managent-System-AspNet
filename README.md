@@ -15,4 +15,10 @@
 
 ## 📸 صور شاشات النظام (System Screenshots)
 <img width="1920" height="1080" alt="‏‏لقطة الشاشة (5)" src="https://github.com/user-attachments/assets/76717eca-1258-4cff-bc37-fad2da5e293b" />
+<img width="1920" height="1080" alt="‏‏لقطة الشاشة (4)" src="https://github.com/user-attachments/assets/e210329c-f363-4681-8558-7b70ee37e4c1" />
+<img width="1920" height="1080" alt="‏‏لقطة الشاشة (3)" src="https://github.com/user-attachments/assets/6fda5078-4f14-4fa4-8676-e1ff19ac9672" />
+<img width="1920" height="1080" alt="‏‏لقطة الشاشة (2)" src="https://github.com/user-attachments/assets/18dbbe96-7589-45c1-80d4-cd78dc25b60d" />
+
+
+
 
